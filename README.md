@@ -1,4 +1,4 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🌐 Smit Christian — Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
