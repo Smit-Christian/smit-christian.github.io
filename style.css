@@ -774,7 +774,7 @@ nav {
 }
 
 .certification-card {
-    background-color: #f9f9f9;
+    background-color: var(--tertiary-dark);
     border-radius: var(--border-radius);
     padding: var(--spacing-m);
     display: flex;
